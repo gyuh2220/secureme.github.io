@@ -324,7 +324,7 @@ p, a,div {
     width: 70px;
     height: 70px;
     border-radius: 100px;
-    background-image: url('/img/chatbot-icon.png');
+    background-image: url('img/chatbot-icon.png');
     background-position: center;
     background-size: contain;
     animation: PopUp 1s ease-out;
@@ -395,7 +395,7 @@ p, a,div {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('/img/chatbot-icon.png');
+    background-image: url('img/chatbot-icon.png');
     background-position: center;
     background-size: contain;
 }
