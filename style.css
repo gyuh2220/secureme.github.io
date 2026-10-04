@@ -9,21 +9,21 @@ font-family <- change font type
 
 @font-face {
     font-family: 'MondayFeelings';
-    src: url(../fonts/MondayFeelings.ttf) format('truetype');
+    src: url(fonts/MondayFeelings.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'MotleyForces';
-    src: url(../fonts/MotleyForcesRegular.ttf) format('truetype');
+    src: url(fonts/MotleyForcesRegular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'ShiftyNotes';
-    src: url(../fonts/ShiftyNotesRegular.ttf) format('truetype');
+    src: url(fonts/ShiftyNotesRegular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
